@@ -1,0 +1,1 @@
+An Android os platfrom based Application that streamlines meeting organization by scheduling, generating concise meeting Timings. This Application aims to optimize time management and productivity and sends alerts during meetings schedules set using the calendar in the interface which is an feature of this Android Application.
